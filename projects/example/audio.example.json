@@ -1,0 +1,12 @@
+{
+  "_comment": "Paste this block into storyboard.json as \"audio\". Paths are relative to the storyboard. Missing files are skipped with a warning.",
+  "audio": {
+    "voice": "audio/voice.mp3",
+    "voice_at": 0.3,
+    "voice_volume": 1.0,
+    "music": "audio/music.mp3",
+    "music_volume": 0.18,
+    "fade_out": 1.5
+  },
+  "shot_sfx_example": { "sfx": [ { "file": "audio/whoosh.wav", "at": 0.0, "volume": 0.7 } ] }
+}

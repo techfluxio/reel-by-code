@@ -1,0 +1,50 @@
+{
+  "title": "The Quiet Gas",
+  "aspect": "9:16",
+  "fps": 30,
+  "look": "documentary-paper",
+  "style_bible": "photorealistic documentary still, warm amber light, soft natural grain, shallow depth of field, muted domestic colours, calm top third of the frame",
+  "shots": [
+    {
+      "id": "01-heater-room", "image": "shots/01-heater-room.jpg", "duration": 3.2, "camera": "push-in", "ink": "dark",
+      "caption": ["A QUIET ROOM", "*A WARM ROOM*"],
+      "prompt": "small closed bedroom in winter, a gas heater glowing orange in the corner, curtains drawn, empty space on the upper wall"
+    },
+    {
+      "id": "02-tea-hand", "image": "shots/02-tea-hand.jpg", "duration": 3.4, "camera": "drift", "ink": "dark",
+      "caption": ["YOU MAY FEEL", "*PERFECTLY FINE*"],
+      "prompt": "close-up of a hand holding a small glass of milky tea, steam rising, blurred golden window light behind, empty blurred wall above"
+    },
+    {
+      "id": "03-sealed-window", "image": "shots/03-sealed-window.jpg", "duration": 2.8, "camera": "pan-right", "ink": "dark",
+      "caption": ["NO SMELL", "*NO COLOUR*"],
+      "prompt": "wide shot of a window sealed with tape and a rolled towel along the sill, winter light, plain wall above"
+    },
+    {
+      "id": "04-hallway", "image": "shots/04-hallway.jpg", "duration": 3.0, "camera": "push-in", "ink": "dark",
+      "caption": ["ALMOST NOTHING", "*WARNS YOU*"],
+      "prompt": "narrow apartment hallway with a closed door at the end, polished floor reflecting a patch of window light, clean ceiling"
+    },
+    {
+      "id": "05-empty-socket", "image": "shots/05-empty-socket.jpg", "duration": 3.0, "camera": "pull-out", "ink": "dark",
+      "caption": ["ON THE CEILING", "*AN EMPTY SOCKET*"],
+      "prompt": "ceiling with an empty round mounting plate where a smoke and gas detector should be, two loose wires, flat white paint"
+    },
+    {
+      "id": "06-bed-hand", "image": "shots/06-bed-hand.jpg", "duration": 3.4, "camera": "drift", "ink": "light",
+      "caption": ["JUST A LITTLE", "*TIRED*"],
+      "prompt": "dim bedroom, a hand resting limply over the edge of a bed, dark blue-grey tones, the top half of the frame is dark and empty",
+      "sfx": []
+    },
+    {
+      "id": "07-clock", "image": "shots/07-clock.jpg", "duration": 2.6, "camera": "push-in", "ink": "light",
+      "caption": ["BY MORNING"],
+      "prompt": "bedside alarm clock showing 6:40, dark room, cold light, large dark empty area above"
+    },
+    {
+      "id": "08-open-window", "image": "shots/08-open-window.jpg", "duration": 3.2, "camera": "pull-out", "ink": "dark", "transition": "fade",
+      "caption": ["*OPEN A WINDOW*"],
+      "prompt": "a window pushed wide open, curtain lifting, bright clean morning light, calm bright sky at the top"
+    }
+  ]
+}

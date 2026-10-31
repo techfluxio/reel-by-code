@@ -1,0 +1,24 @@
+{
+  "name": "documentary-paper",
+  "grade": { "contrast": 1.06, "saturation": 1.08, "brightness": -0.01, "warm": 0.05 },
+  "vignette": "PI/5",
+  "grain": 9,
+  "camera": { "amount": 0.10, "ease": "sine" },
+  "colors": { "dark": "#1b130a", "light": "#f4ebd9", "accent": "#c4372c" },
+  "caption": { "left": 0.06, "top": 0.075, "size": 0.034, "emphasisSize": 0.048, "lineHeight": 1.1, "delay": 0.25, "stagger": 0.35, "fade": 0.22, "rise": 18 },
+  "crease": { "x": 0.63 },
+  "holes": { "count": 12, "x": 0.012, "size": 0.012, "color": "#000000@0.35" },
+  "fonts": [
+    "fonts/Anton-Regular.ttf",
+    "fonts/Oswald-Bold.ttf",
+    "/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed-Bold.ttf",
+    "/System/Library/Fonts/Supplemental/Impact.ttf",
+    "/Library/Fonts/Impact.ttf",
+    "C:/Windows/Fonts/impact.ttf"
+  ],
+  "holeFonts": [
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+    "/System/Library/Fonts/Supplemental/Arial Unicode.ttf",
+    "C:/Windows/Fonts/arial.ttf"
+  ]
+}

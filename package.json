@@ -1,0 +1,13 @@
+{
+  "name": "reel-by-code",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "description": "Vertical captioned reels: your images + a storyboard in, a finished MP4 out. Camera moves, captions, paper/grain looks and sound mixing are all code (Node + ffmpeg).",
+  "scripts": {
+    "placeholders": "node engine/placeholder.mjs",
+    "prompts": "node engine/prompts.mjs",
+    "compose": "node engine/compose.mjs",
+    "review": "node engine/review.mjs"
+  }
+}
